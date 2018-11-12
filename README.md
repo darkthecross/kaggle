@@ -14,4 +14,11 @@ components:
 
     A beginner-level competition to predict survivals of the Titanic given some information about the person on board.
 
-    
+* house prices
+
+    This seems to be a real problem.
+
+    Got a decent result using xgboost on almost raw data.
+
+Kaggle competitions involves lots of data cleaning, lots of feature engineering and so many non-trivial things, but I can get only very little
+fulfillment and satisfaction out of them. I definitely would want to be a robotics engineer better than a machine learning scientist! 
